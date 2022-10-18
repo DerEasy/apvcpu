@@ -1,0 +1,4 @@
+/home/easy/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/222.4345.21/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/usr/bin/make -DCMAKE_C_COMPILER=/usr/bin/gcc -DCMAKE_CXX_COMPILER=/usr/bin/g++ -G "CodeBlocks - Unix Makefiles" -S /home/easy/CLionProjects/apvcpu -B /home/easy/CLionProjects/apvcpu/cmake-build-debug
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/easy/CLionProjects/apvcpu/cmake-build-debug
